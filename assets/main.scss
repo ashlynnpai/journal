@@ -1,0 +1,90 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+
+
+body {
+  background-color: #F3F1E5;
+  font: 500 18px/1.5 "Ubuntu", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 30px;
+}
+
+.site-title {
+  color: #6E6567;
+  font: 34px "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin-top: 30px;
+}
+
+.post-title {
+  color: #6E6567;
+  font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.wrapper {
+  max-width: -webkit-calc(800px - (30px * 2));
+  max-width: calc(800px - (30px * 2));
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 30px;
+  padding-left: 30px; }
+  @media screen and (max-width: 800px) {
+    .wrapper {
+      max-width: -webkit-calc(800px - (30px));
+      max-width: calc(800px - (30px));
+      padding-right: 15px;
+      padding-left: 15px; } }
+    
+#content-wrapper {
+  background-color: #FFFFF9;
+  padding: 20px;
+}    
+
+.post-title {
+  font-size: 32px; }
+  @media screen and (max-width: 800px) {
+    .post-title {
+      font-size: 32px; } }
+      
+.site-header {
+  border: none;
+}      
+      
+.site-footer {
+  border-top: none;
+}      
+
+.teal {
+  color: #5AB0AC;
+}
+
+.orange {
+  color: #FF9966;
+}
+
+a {
+  color: #6F7178;
+  text-decoration: none; }
+  a:visited {
+    color: #6F7178; }
+  a:hover {
+    color: #5AB0AC;
+    text-decoration: none;}
+
+.footer-col-wrapper,  .footer-col-wrapper a{
+  font-size: 16px;
+  color: #6E6567;
+}
+
+  @media screen and (min-width: 1000px) {
+    .wrapper {
+      max-width: -webkit-calc(1200px - (30px));
+      max-width: calc(1200px - (30px));
+      padding-right: 15px;
+      padding-left: 15px; } }
