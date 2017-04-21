@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Courses"
+permalink: "/courses/"
 ---
 
 A partial list of online courses completed.
