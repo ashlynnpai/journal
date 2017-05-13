@@ -20,6 +20,7 @@ A partial list of online courses completed.
 
 * The Analytics Edge, MITx 15.071x, edx (MIT), 2015*
 * Data Analysis and Statistical Inference, Coursera (Duke University), 2015**
+* Statistics and R, edx (Harvard University), May 2017
 * Data Analysis: Take it to the MAX(), edx (Delft University of Technology), 2015*
 * DS101X: Statistical Thinking for Data Science and Analytics, edx (Columbia University), 2016*
 * Introduction to Big Data, Coursera (UC San Diego), 2015
@@ -56,6 +57,7 @@ A partial list of online courses completed.
 
 # Technology--Other
 
+* Cybersecurity Fundamentals, edx (Rochester Institute of Technology), May 2017
 * Introduction to Cyber Security, FutureLearn (Open University), November 2016
 * Surveillance Law, Coursera (Stanford University), 2014*
 * Introduction to Cloud Computing, edx (IEEEx), 2015*
