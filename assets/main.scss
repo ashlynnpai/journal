@@ -4,10 +4,14 @@
 
 @import "minima";
 
+$coffee: #5A352D;
+$beige-background: #F3F1E5;
+$atomic-tangerine: #FF9966;
+$teal: #5AB0AC;
 
 
 body {
-  background-color: #F3F1E5;
+  background-color: $beige-background;
   font: 500 18px/1.5 "Ubuntu", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
@@ -18,12 +22,13 @@ h1 {
 
 .site-title {
   color: #6E6567;
+  color: $coffee;
   font: 34px "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin-top: 30px;
 }
 
 .post-title {
-  color: #6E6567;
+  color: $coffee;
   font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
@@ -64,23 +69,51 @@ h1 {
   color: #5AB0AC;
 }
 
-.orange {
-  color: #FF9966;
+.atomic-tangerine {
+  color: $atomic-tangerine;
 }
 
+
 a {
-  color: #6F7178;
+  color: $coffee;
   text-decoration: none; }
   a:visited {
-    color: #6F7178; }
+    color: $coffee; }
   a:hover {
     color: #5AB0AC;
     text-decoration: none;}
 
 .footer-col-wrapper,  .footer-col-wrapper a{
   font-size: 16px;
-  color: #6E6567;
+  color: $beige-background;
 }
+
+.footer-heading {
+  color: $beige-background;
+}
+
+/* sticky footer https://css-tricks.com/couple-takes-sticky-footer/ */
+
+html {
+  height: 100%;
+}
+
+body {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.page-content {
+  flex: 1;
+  padding: 20px;
+}
+
+.site-footer {
+  padding: 20px;
+  background: $coffee;
+}
+
 
   @media screen and (min-width: 1000px) {
     .wrapper {
