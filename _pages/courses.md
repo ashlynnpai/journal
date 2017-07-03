@@ -31,6 +31,7 @@ A partial list of online courses completed.
 * Calculus One, Coursera (Ohio State), June 2016
 * Calculus Two, Coursera (Ohio State), April 2017
 * Linear Algebra, Foundations to Frontiers, edx (UT Austin), May 2017
+* Introduction to Linear Models and Matrix Algebra, edx (Harvard University), May 2017
 * Introduction to Mathematical Thinking, Coursera (Stanford University), 2015*
 * Effective Thinking Through Mathematics, UT.9.10x, edx (UT Austin), November 2016
 
@@ -54,6 +55,7 @@ A partial list of online courses completed.
 * Big Data Science with the BD2K LINCS Data Coordination and Integration Center, Coursera (Icahn School of Medicine, Mount Sinai), 2015**
 * Fundamentals of Neuroscience, MCB80.1x, MCB80.2x, edx (Harvard University), 2015*
 * Cellular Mechanisms of Brain Function, edx (École Polytechnique Fédérale de Lausanne -- Swiss Federal Institute of Technology), 2015*
+* Science & Cooking: From Haute Cuisine to Soft Matter Science, edx (Harvard University), June 2017
 
 # Technology--Other
 
