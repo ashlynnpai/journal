@@ -28,6 +28,7 @@ A partial list of online courses completed.
 
 # Mathematics
 
+* Calculus 1A: Differentiation, MITx: 18.01.1x, edx (MIT), September 2017
 * Calculus One, Coursera (Ohio State), June 2016
 * Calculus Two, Coursera (Ohio State), April 2017
 * Linear Algebra, Foundations to Frontiers, edx (UT Austin), May 2017
@@ -60,6 +61,7 @@ A partial list of online courses completed.
 # Technology--Other
 
 * Cybersecurity Fundamentals, edx (Rochester Institute of Technology), May 2017
+* Computer Forensics, edx (Rochester Institute of Technology), July 2017
 * Introduction to Cyber Security, FutureLearn (Open University), November 2016
 * Surveillance Law, Coursera (Stanford University), 2014*
 * Introduction to Cloud Computing, edx (IEEEx), 2015*
