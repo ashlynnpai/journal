@@ -8,7 +8,7 @@ A partial list of online courses completed.
 
 # Computer Science
 
-* Introduction to Computer Science and Programming Using Python, MITx 6.00.1x, edx (MIT), 2015*
+* Introduction to Computer Science and Programming Using Python, MITx 6.00.1x, edx (MIT), 2015* 
 * Mining Massive Datasets, Coursera (Stanford University), 2015*
 * Automata, Coursera (Stanford University), 2015*
 * Intro to Computer Science, CS 101, Udacity, 2015
@@ -29,8 +29,10 @@ A partial list of online courses completed.
 # Mathematics
 
 * Calculus 1A: Differentiation, MITx: 18.01.1x, edx (MIT), September 2017
+* Calculus: Single Variable, Parts 1, 2, Coursera (University of Pennsylvania), October 2017
 * Calculus One, Coursera (Ohio State), June 2016
 * Calculus Two, Coursera (Ohio State), April 2017
+* Pre-University Calculus, edx (Delft University of Technology), September 2017
 * Linear Algebra, Foundations to Frontiers, edx (UT Austin), May 2017
 * Introduction to Linear Models and Matrix Algebra, edx (Harvard University), May 2017
 * Introduction to Mathematical Thinking, Coursera (Stanford University), 2015*
