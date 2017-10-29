@@ -73,10 +73,12 @@ permalink: "/courses/"
 <br/>
 <br/>
 
+These are courses where I completed enough requirements to get a passing grade as defined by the instructor of the course (usually 60-80%), whether or not I got a certificate. Free certificates were phased out by Coursera and edx in 2016.
+<br/>
+
 :heavy_check_mark: Verified Certificate
 
 *Free certificates (Statement of Accomplishment, Honor Code Certificate, or merit badge)
 
 **with distinction
 
-Free certificates were phased out by Coursera and edx in 2016.
