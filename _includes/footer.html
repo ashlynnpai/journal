@@ -26,6 +26,14 @@
             {% include icon-github.html username=site.github_username %}
           </li>
           {% endif %}
+          
+          {% if site.whatever_username %}
+          <li>
+            <a href="https://example.com/{{ site.whatever_username }}">
+              <i class="fa fa-example"></i> Whatever
+            </a>
+          </li>
+          {% endif %}
 
           {% if site.twitter_username %}
           <li>

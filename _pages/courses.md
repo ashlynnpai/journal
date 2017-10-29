@@ -50,6 +50,7 @@ permalink: "/courses/"
 
 # Science--Other
 
+* Principles of Biochemistry, MCB63X, edx (Harvard University), October 2017
 * Finding Hidden Messages in DNA (Bioinformatics I), Coursera (UC San Diego), 2015*
 * Network Analysis in Systems Biology, Coursera (Icahn School of Medicine, Mount Sinai), 2015**
 * Science & Cooking: From Haute Cuisine to Soft Matter Science, edx (Harvard University), June 2017
@@ -62,6 +63,7 @@ permalink: "/courses/"
 
 # Web Development
 
+* Front End Development, Free Code Camp, October 2017
 * Build Robust and Production Quality Applications, Tealeaf Academy, 2015
 * Rapid Prototyping with Ruby on Rails, Tealeaf Academy, 2014
 * Front End Web Development, Team Treehouse, 2014
