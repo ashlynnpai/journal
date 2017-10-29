@@ -2,8 +2,6 @@
 
   <div class="wrapper">
 
-    
-
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <p><a class="page-link" href="https://ashlynnpai.github.io/journal/">Home</a></p>
@@ -20,34 +18,32 @@
       </div>
 
       <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-          
-          {% if site.whatever_username %}
-          <li>
-            <a href="https://example.com/{{ site.whatever_username }}">
-              <i class="fa fa-example"></i> Whatever
-            </a>
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
+          <p><a class="page-link" href="https://ashlynnpai.github.io/journal/courses/">Courses</a></p>
       </div>
 
       <div class="footer-col footer-col-3">
-        <p><a class="page-link" href="https://ashlynnpai.github.io/journal/courses/">Courses</a></p>
-      </div>
+          <ul class="social-media-list">
+            {% if site.github_username %}
+              <li>
+                {% include icon-github.html username=site.github_username %}
+              </li>
+              {% endif %}
+          
+              {% if site.whatever_username %}
+              <li>
+                <a href="https://example.com/{{ site.whatever_username }}">
+                  <i class="fa fa-example"></i> Whatever
+                </a>
+              </li>
+              {% endif %}
+
+              {% if site.twitter_username %}
+              <li>
+                {% include icon-twitter.html username=site.twitter_username %}
+              </li>
+              {% endif %}
+          </ul>
+        </div>
     </div>
-
   </div>
-
 </footer>
