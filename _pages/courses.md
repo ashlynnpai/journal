@@ -52,6 +52,7 @@ permalink: "/courses/"
 
 * Principles of Biochemistry, MCB63X, edx (Harvard University), October 2017
 * Finding Hidden Messages in DNA (Bioinformatics I), Coursera (UC San Diego), 2015*
+* Introduction to Chemistry: Reactions and Ratios, Coursera (Duke University), November 2017 :heavy_check_mark:
 * Network Analysis in Systems Biology, Coursera (Icahn School of Medicine, Mount Sinai), 2015**
 * Science & Cooking: From Haute Cuisine to Soft Matter Science, edx (Harvard University), June 2017
 
