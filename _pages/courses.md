@@ -35,8 +35,9 @@ permalink: "/courses/"
 
 # Programming
 
-* Introduction to Programming with Java, Parts 1,2, edx (Universidad Carlos III de Madrid), March 2017
 * An Introduction to Interactive Programming in Python, Coursera (Rice University), 2014**
+* Introduction to Programming with Java, Parts 1,2, edx (Universidad Carlos III de Madrid), March 2017
+* Functional Programming in Haskell, Future Learn (University of Glasgow), November 2017
 * Databases (SQL, JSON), Stanford Online, 2015*
 * Managing Big Data with MySQL (Duke University), 2016
 * Web Application Architectures, Coursera (University of New Mexico), 2014**
