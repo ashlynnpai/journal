@@ -5,6 +5,7 @@
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <p><a class="page-link" href="https://ashlynnpai.github.io/journal/">Home</a></p>
+        
         <ul class="contact-list">
           <li>
             {% if site.author %}
@@ -15,21 +16,19 @@
             <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {% endif %}
         </ul>
+        <p><a class="page-link" href="https://ashlynnpai.github.io/journal/courses/">Courses</a></p>
       </div>
 
       <div class="footer-col footer-col-2">
-          <p><a class="page-link" href="https://ashlynnpai.github.io/journal/courses/">Courses</a></p>
-      </div>
-
-      <div class="footer-col footer-col-3">
           <ul class="social-media-list">
+            </li>
             {% if site.github_username %}
               <li>
                 {% include icon-github.html username=site.github_username %}
               </li>
-              {% endif %}
+            {% endif %}
           
-              {% if site.whatever_username %}
+            {% if site.whatever_username %}
               <li>
                 <a href="https://example.com/{{ site.whatever_username }}">
                   <i class="fa fa-example"></i> Whatever
@@ -42,6 +41,16 @@
                 {% include icon-twitter.html username=site.twitter_username %}
               </li>
               {% endif %}
+          </ul>
+        </div>
+
+      <div class="footer-col footer-col-3">
+          <ul class="social-media-list">
+            <li>
+              <a href="https://www.codewars.com/users/ashlynn">
+              <img width="300" id="badges" src="https://www.codewars.com/users/ashlynn/badges/large" />
+              </a>
+            </li>
           </ul>
         </div>
     </div>
