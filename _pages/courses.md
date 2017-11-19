@@ -59,6 +59,7 @@ permalink: "/courses/"
 
 # Technology--Other
 
+* Network Security, edx (Rochester Institute of Technology), November 2017
 * Cybersecurity Fundamentals, edx (Rochester Institute of Technology), May 2017
 * Computer Forensics, edx (Rochester Institute of Technology), July 2017
 * Surveillance Law, Coursera (Stanford University), 2014*
