@@ -66,7 +66,7 @@ permalink: "/courses/"
 
 # Web Development
 
-* Front End Development, Free Code Camp, October 2017
+* Front End Development, Free Code Camp, October 2017*
 * Build Robust and Production Quality Applications, Tealeaf Academy, 2015
 * Rapid Prototyping with Ruby on Rails, Tealeaf Academy, 2014
 * Front End Web Development, Team Treehouse, 2014
@@ -76,7 +76,7 @@ permalink: "/courses/"
 <br/>
 <br/>
 
-These are courses where I completed enough requirements to get a passing grade as defined by the instructor of the course (usually 60-80%), whether or not I got a certificate. Free certificates were phased out by Coursera and edx in 2016.
+This is a list courses where I completed enough requirements to get a passing grade as defined by the instructor of the course (usually 60-80%), whether or not I got a certificate. In some courses a certificate was not offered, but in most cases I didn't pay for a certificate due to the large number of courses I take. Free certificates were phased out by Coursera and edx in 2016.
 <br/>
 
 :heavy_check_mark: Verified Certificate
