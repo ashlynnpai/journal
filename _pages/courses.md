@@ -77,7 +77,7 @@ permalink: "/courses/"
 <br/>
 <br/>
 
-This is a list courses where I completed enough requirements to get a passing grade as defined by the instructor of the course (usually 60-80%), whether or not I got a certificate. In some courses a certificate was not offered, but in most cases I didn't pay for a certificate due to the large number of courses I take. Free certificates were phased out by Coursera and edx in 2016.
+This is a list of courses where I completed enough requirements to get a passing grade as defined by the instructor of the course (usually 60-80%), whether or not I got a certificate. In some courses a certificate was not offered, but in most cases I didn't pay for a certificate due to the large number of courses I take. Free certificates were phased out by Coursera and edx in 2016.
 <br/>
 
 :heavy_check_mark: Verified Certificate
