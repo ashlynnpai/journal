@@ -46,6 +46,7 @@ permalink: "/courses/"
 # Science--Neuroscience
 
 * Medical Neuroscience, Coursera (Duke University), March 2016*
+* Introduction to Clinical Neurology (UC San Francisco), November 2017 :heavy_check_mark:
 * Fundamentals of Neuroscience, MCB80.1x, MCB80.2x, edx (Harvard University), 2015*
 * Cellular Mechanisms of Brain Function, edx (École Polytechnique Fédérale de Lausanne -- Swiss Federal Institute of Technology), 2015*
 
