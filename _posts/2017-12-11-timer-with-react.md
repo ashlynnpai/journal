@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Timer with React"
-description: "A simple countdown timer."
+description: "Make a simple countdown timer with React.js."
 date:   2017-12-11 14:00:00 +0000
 
 ---

@@ -45,10 +45,20 @@ body {
 .post-title {
   color: $teal;
   font-family: "Special Elite", Helvetica, Arial, sans-serif;
-  font-size: 32px; }
+  font-size: 40px; }
   @media screen and (max-width: 800px) {
     .post-title {
       font-size: 32px; } }
+      
+.post-link {
+  color: $teal;
+  font-family: "Special Elite", Helvetica, Arial, sans-serif;
+}
+
+.post-meta {
+  color: $coffee;
+  font-family: "Special Elite", Helvetica, Arial, sans-serif;
+}
       
 .site-header {
   border: none;

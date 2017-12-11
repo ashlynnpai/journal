@@ -4,7 +4,7 @@ layout: default
 
 <div class="home">
 
-  <h1>Posts</h1>
+  <h1 class="post-title">Posts</h1>
   
   {{ content }}
 
@@ -12,7 +12,7 @@ layout: default
     {% for post in site.posts %}
       <li id="content-wrapper">
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        <span class="post-meta"><p class="atomic-tangerine">{{ post.date | date: date_format }}</p></span>
+        <span class="post-meta"><p>{{ post.date | date: date_format }}</p></span>
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
