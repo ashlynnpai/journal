@@ -8,6 +8,7 @@ $coffee: #5A352D;
 $beige-background: #F3F1E5;
 $atomic-tangerine: #FF9966;
 $teal: #5AB0AC;
+$cadet-blue: #669999;
 
 
 body {
@@ -79,10 +80,10 @@ h1 {
 
 
 a {
-  color: $coffee;
+  color: $cadet-blue;
   text-decoration: none; }
   a:visited {
-    color: $coffee; }
+    color: $cadet-blue; }
   a:hover {
     color: #5AB0AC;
     text-decoration: none;}
