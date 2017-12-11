@@ -6,31 +6,14 @@
 
 $coffee: #5A352D;
 $beige-background: #F3F1E5;
-$atomic-tangerine: #FF9966;
+$tangerine: #FF9966;
 $teal: #5AB0AC;
 $cadet-blue: #669999;
 
 
 body {
   background-color: $beige-background;
-  font: 500 18px/1.5 "Ubuntu", "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
-
-h1 {
-  font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 30px;
-}
-
-.site-title {
-  color: #6E6567;
-  color: $coffee;
-  font: 34px "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  margin-top: 30px;
-}
-
-.post-title {
-  color: $coffee;
-  font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 500 18px/1.5 Roboto, Helvetica, Arial, sans-serif;
 }
 
 .wrapper {
@@ -52,7 +35,16 @@ h1 {
   padding: 20px;
 }    
 
+.site-title {
+  color: $tangerine;
+  font: 60px "Special Elite", Helvetica, Arial, sans-serif;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
 .post-title {
+  color: $teal;
+  font-family: "Special Elite", Helvetica, Arial, sans-serif;
   font-size: 32px; }
   @media screen and (max-width: 800px) {
     .post-title {
@@ -60,6 +52,10 @@ h1 {
       
 .site-header {
   border: none;
+  //background-image: url(image.jpg)
+  // background-repeat:no-repeat;
+  // background-position: center center;
+  // background-size: cover;
 }      
       
 .site-footer {
@@ -69,15 +65,6 @@ h1 {
 .footer-col-wrapper {
   margin: 80px 0;
 }
-
-.teal {
-  color: #5AB0AC;
-}
-
-.atomic-tangerine {
-  color: $atomic-tangerine;
-}
-
 
 a {
   color: $cadet-blue;
