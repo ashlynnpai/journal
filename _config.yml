@@ -33,3 +33,5 @@ exclude:
   - Gemfile.lock
 include: ["_pages"]
 permalink: /:title/
+plugins_dir:
+  - jekyll-sitemap
