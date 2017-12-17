@@ -19,6 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/journal"
 url: "http://ashlynnpai.github.io"
 github_username: ashlynnpai
+codepen_username: ashlynnpai
 
 
 # Build settings
