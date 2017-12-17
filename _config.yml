@@ -35,3 +35,4 @@ include: ["_pages"]
 permalink: /:title/
 plugins_dir:
   - jekyll-sitemap
+google_verify: 4gvGlZHCAFLuLpfAtoHc_uK7DWE3nGElObAOsQcLO5I
