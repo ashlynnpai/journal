@@ -14,12 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Notes
-description: > A programming blog
+description: A programming blog
   
 baseurl: "/journal"
 url: "http://ashlynnpai.github.io"
 github_username: ashlynnpai
 codepen_username: ashlynnpai
+google_verify: 4gvGlZHCAFLuLpfAtoHc_uK7DWE3nGElObAOsQcLO5I
 
 
 # Build settings
@@ -35,4 +36,4 @@ include: ["_pages"]
 permalink: /:title/
 plugins_dir:
   - jekyll-sitemap
-google_verify: 4gvGlZHCAFLuLpfAtoHc_uK7DWE3nGElObAOsQcLO5I
+
