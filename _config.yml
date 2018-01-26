@@ -31,7 +31,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jemoji
-  - jekyll-paginate-v2
+  - jekyll-paginate
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -39,16 +39,5 @@ include: ["_pages"]
 plugins_dir:
   - jekyll-sitemap
 
-# Produces a cleaner folder structure when using categories
-permalink: /:year/:month/:title.html
-
-# Pagination Settings
-pagination:
-  enabled: true
-  per_page: 10
-  permalink: '/page/:num/'
-  title: ':title - page :num of :max'
-  limit: 0
-  sort_field: 'date'
-  sort_reverse: true
+paginate: 5
 
