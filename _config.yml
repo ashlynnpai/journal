@@ -25,6 +25,9 @@ google_verify: 4gvGlZHCAFLuLpfAtoHc_uK7DWE3nGElObAOsQcLO5I
 paginate: 10
 paginate_path: "/journal/page:num/"
 
+disqus:
+    shortname: ashlynn
+
 
 
 # Build settings
