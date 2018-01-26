@@ -28,7 +28,7 @@ disqus:
 # Build settings
 markdown: kramdown
 theme: minima
-gems:
+plugins:
   - jekyll-feed
   - jemoji
   - jekyll-paginate-v2
