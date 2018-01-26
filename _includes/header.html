@@ -4,9 +4,37 @@
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
     <h1 class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</h1>
-    
-  </div>
-  <div class="wrapper">
-    <p class="teal">{{ site.description | escape }}</p>
+
+  <ul class="social-media-list">
+    {% if site.github_username %}
+      <!--<li>-->
+      <!--  {% include icon-github.html username=site.github_username %}-->
+      <!--</li>-->
+      <li id="github">
+        <a href="https://github.com/{{ site.github_username }}">
+          <img height="32" src="https://assets-cdn.github.com/images/modules/logos_page/Octocat.png" /> Github
+        </a>
+      </li>
+    {% endif %}
+  
+    {% if site.codepen_username %}
+      <li>
+        <a href="https://codepen.io/{{ site.codepen_username }}">
+          <img height="26" src="https://blog.codepen.io/wp-content/uploads/2012/06/Button-Fill-Black-Large.png" />  Codepen
+        </a>
+      </li>
+      {% endif %}
+
+      {% if site.twitter_username %}
+      <li>
+        {% include icon-twitter.html username=site.twitter_username %}
+      </li>
+      {% endif %}
+      <li>
+        <a href="https://www.codewars.com/users/ashlynn">
+          <img src="https://www.codewars.com/users/ashlynn/badges/micro" />
+        </a>
+      </li>
+    </ul>
   </div>
 </header>
