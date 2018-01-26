@@ -22,6 +22,10 @@ github_username: ashlynnpai
 codepen_username: ashlynnpai
 google_verify: 4gvGlZHCAFLuLpfAtoHc_uK7DWE3nGElObAOsQcLO5I
 
+paginate: 10
+paginate_path: "/journal/page:num/"
+
+
 
 # Build settings
 markdown: kramdown
@@ -29,6 +33,7 @@ theme: minima
 gems:
   - jekyll-feed
   - jemoji
+  - jekyll-paginate
 exclude:
   - Gemfile
   - Gemfile.lock
