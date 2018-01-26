@@ -11,7 +11,8 @@ pagination:
   {{ content }}
 
   <ul class="post-list">
-    {% for post in paginator.posts %}
+  <!--  {% for post in paginator.posts %} -->
+    {% for post in site.posts %}
       <li id="content-wrapper">
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
         <span class="post-meta"><p>{{ post.date | date: date_format }}</p></span>
@@ -26,6 +27,7 @@ pagination:
     {% endfor %}
   </ul>
   
+   <!--
   {% if paginator.total_pages > 1 %}
   <ul class="pager">
       {% if paginator.previous_page %}
@@ -40,5 +42,5 @@ pagination:
       {% endif %}
   </ul>
   {% endif %}
-
+  -->
 </div>
