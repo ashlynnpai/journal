@@ -4,10 +4,17 @@ title:  "Courses"
 permalink: "/courses/"
 ---
 
+# Business Courses 
+
+Listed [here](https://ashlynnpai.github.io/journal/business-courses)
 
 # Science Courses
 
-Listed [here] (https://ashlynnpai.github.io/journal/science-courses)
+Listed [here](https://ashlynnpai.github.io/journal/science-courses)
+
+# Web Development
+
+Listed [here](https://ashlynnpai.github.io/journal/web-dev-courses)
 
 
 # Computer Science
@@ -36,6 +43,7 @@ Listed [here] (https://ashlynnpai.github.io/journal/science-courses)
 * Calculus One, Coursera (Ohio State), June 2016
 * Calculus Two, Coursera (Ohio State), April 2017
 * Pre-University Calculus, edx (Delft University of Technology), September 2017
+* Calculus Applied!, CalcAPL1x,edx (Harvard), February 2018
 * Linear Algebra, Foundations to Frontiers, edx (UT Austin), May 2017
 * Introduction to Linear Models and Matrix Algebra, edx (Harvard University), May 2017
 * Introduction to Mathematical Thinking, Coursera (Stanford University), 2015*
@@ -50,7 +58,6 @@ Listed [here] (https://ashlynnpai.github.io/journal/science-courses)
 * Web Application Architectures, Coursera (University of New Mexico), 2014**
 * Cloud Computing Applications, Coursera (University of Illinois), 2015*
 
-
 # Technology--Other
 
 * Network Security, edx (Rochester Institute of Technology), November 2017
@@ -58,13 +65,6 @@ Listed [here] (https://ashlynnpai.github.io/journal/science-courses)
 * Computer Forensics, edx (Rochester Institute of Technology), July 2017
 * Surveillance Law, Coursera (Stanford University), 2014*
 
-# Web Development
-
-* Front End Development, Free Code Camp, October 2017*
-* Build Robust and Production Quality Applications, Tealeaf Academy, 2015
-* Rapid Prototyping with Ruby on Rails, Tealeaf Academy, 2014
-* Front End Web Development, Team Treehouse, 2014
-* WordPress Development, Team Treehouse, 2014
 
 <br/>
 <br/>
