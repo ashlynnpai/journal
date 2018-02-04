@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "A Little RPG Dungeon Crawler"
-description: "Making my first RPG game with React."
+title:  "Refactoring Blackjack"
+description: "Accommodating computer opponents."
 date:   2018-2-4 4:10:00 +0000
 
 ---

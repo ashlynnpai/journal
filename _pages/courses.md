@@ -4,6 +4,12 @@ title:  "Courses"
 permalink: "/courses/"
 ---
 
+
+# Science Courses
+
+Listed [here] (https://ashlynnpai.github.io/journal/science-courses)
+
+
 # Computer Science
 
 * Introduction to Computer Science and Programming Using Python, MITx 6.00.1x, edx (MIT), 2015* 
@@ -44,21 +50,6 @@ permalink: "/courses/"
 * Web Application Architectures, Coursera (University of New Mexico), 2014**
 * Cloud Computing Applications, Coursera (University of Illinois), 2015*
 
-# Science--Neuroscience
-
-* Medical Neuroscience, Coursera (Duke University), March 2016*
-* Introduction to Clinical Neurology, Coursera (UC San Francisco), November 2017 :heavy_check_mark:
-* Fundamentals of Neuroscience, MCB80.1x, MCB80.2x, edx (Harvard University), 2015*
-* Cellular Mechanisms of Brain Function, edx (École Polytechnique Fédérale de Lausanne -- Swiss Federal Institute of Technology), 2015*
-* Fundamental Neuroscience for Neuroimaging, Coursera (Johns Hopkins), January 2018 :heavy_check_mark:
-
-# Science--Other
-
-* Principles of Biochemistry, MCB63X, edx (Harvard University), October 2017
-* Finding Hidden Messages in DNA (Bioinformatics I), Coursera (UC San Diego), 2015*
-* Introduction to Chemistry: Reactions and Ratios, Coursera (Duke University), November 2017 :heavy_check_mark:
-* Network Analysis in Systems Biology, Coursera (Icahn School of Medicine, Mount Sinai), 2015**
-* Science & Cooking: From Haute Cuisine to Soft Matter Science, edx (Harvard University), June 2017
 
 # Technology--Other
 
