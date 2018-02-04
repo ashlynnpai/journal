@@ -4,20 +4,24 @@ title:  "Courses"
 permalink: "/courses/"
 ---
 
-# Business Courses 
+
+### Business Courses 
+{:.coffee .elite}
 
 Listed [here](https://ashlynnpai.github.io/journal/business-courses)
 
-# Science Courses
+### Science Courses 
+{:.coffee .elite}
 
 Listed [here](https://ashlynnpai.github.io/journal/science-courses)
 
-# Web Development
+### Web Development Courses 
+{:.coffee .elite}
 
 Listed [here](https://ashlynnpai.github.io/journal/web-dev)
 
-
-# Computer Science
+### Computer Science 
+{:.coffee .elite}
 
 * Introduction to Computer Science and Programming Using Python, MITx 6.00.1x, edx (MIT), 2015* 
 * Mining Massive Datasets, Coursera (Stanford University), 2015*
@@ -26,7 +30,8 @@ Listed [here](https://ashlynnpai.github.io/journal/web-dev)
 * Artificial Intelligence Planning, Coursera (University of Edinburgh), 2015*
 * Pattern Discovery in Data Mining, Coursera (University of Illinois), 2015*
 
-# Data Science and Analytics
+### Data Science
+{:.coffee .elite}
 
 * The Analytics Edge, MITx 15.071x, edx (MIT), 2015*
 * Data Analysis and Statistical Inference, Coursera (Duke University), 2015**
@@ -36,7 +41,8 @@ Listed [here](https://ashlynnpai.github.io/journal/web-dev)
 * DS101X: Statistical Thinking for Data Science and Analytics, edx (Columbia University), 2016*
 
 
-# Mathematics
+### Mathematics
+{:.coffee .elite}
 
 * Calculus 1A: Differentiation, MITx: 18.01.1x, edx (MIT), September 2017
 * Calculus: Single Variable, Parts 1, 2, Coursera (University of Pennsylvania), October 2017
@@ -48,7 +54,8 @@ Listed [here](https://ashlynnpai.github.io/journal/web-dev)
 * Introduction to Linear Models and Matrix Algebra, edx (Harvard University), May 2017
 * Introduction to Mathematical Thinking, Coursera (Stanford University), 2015*
 
-# Programming
+### Programming
+{:.coffee .elite}
 
 * An Introduction to Interactive Programming in Python, Coursera (Rice University), 2014**
 * Introduction to Programming with Java, Parts 1,2, edx (Universidad Carlos III de Madrid), March 2017
@@ -58,7 +65,8 @@ Listed [here](https://ashlynnpai.github.io/journal/web-dev)
 * Web Application Architectures, Coursera (University of New Mexico), 2014**
 * Cloud Computing Applications, Coursera (University of Illinois), 2015*
 
-# Technology--Other
+### Technology
+{:.coffee .elite}
 
 * Network Security, edx (Rochester Institute of Technology), November 2017
 * Cybersecurity Fundamentals, edx (Rochester Institute of Technology), May 2017

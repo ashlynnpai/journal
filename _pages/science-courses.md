@@ -4,7 +4,21 @@ title:  "Science Courses"
 permalink: "/science-courses/"
 ---
 
-# Science--Neuroscience
+### Bioinformatics and Systems Biology
+{:.coffee .elite}
+
+* Finding Hidden Messages in DNA (Bioinformatics I), Coursera (UC San Diego), 2015*
+* Network Analysis in Systems Biology, Coursera (Icahn School of Medicine, Mount Sinai), 2015**
+
+### Chemistry
+{:.coffee .elite}
+
+* Principles of Biochemistry, MCB63X, edx (Harvard University), October 2017
+* Introduction to Chemistry: Reactions and Ratios, Coursera (Duke University), November 2017 :heavy_check_mark:
+* Science & Cooking: From Haute Cuisine to Soft Matter Science, edx (Harvard University), June 2017
+
+### Neuroscience
+{:.coffee .elite}
 
 * Medical Neuroscience, Coursera (Duke University), March 2016*
 * Introduction to Clinical Neurology, Coursera (UC San Francisco), November 2017 :heavy_check_mark:
@@ -12,20 +26,12 @@ permalink: "/science-courses/"
 * Cellular Mechanisms of Brain Function, edx (École Polytechnique Fédérale de Lausanne -- Swiss Federal Institute of Technology), 2015*
 * Fundamental Neuroscience for Neuroimaging, Coursera (Johns Hopkins), January 2018 :heavy_check_mark:
 
-# Science--Other
 
-* Principles of Biochemistry, MCB63X, edx (Harvard University), October 2017
-* Finding Hidden Messages in DNA (Bioinformatics I), Coursera (UC San Diego), 2015*
-* Introduction to Chemistry: Reactions and Ratios, Coursera (Duke University), November 2017 :heavy_check_mark:
-* Network Analysis in Systems Biology, Coursera (Icahn School of Medicine, Mount Sinai), 2015**
-* Science & Cooking: From Haute Cuisine to Soft Matter Science, edx (Harvard University), June 2017
-
-<br/>
-<br/>
-<br/>
+<br>
+<br>
 
 This is a list of courses where I completed enough requirements to get a passing grade as defined by the instructor of the course (usually 60-80%), whether or not I got a certificate. In some courses a certificate was not offered, but in most cases I didn't pay for a certificate due to the large number of courses I take. Free certificates were phased out by Coursera and edx in 2016.
-<br/>
+<br>
 
 :heavy_check_mark: Verified Certificate
 

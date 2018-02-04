@@ -9,6 +9,7 @@ $beige-background: #F3F1E5;
 $tangerine: #FF9966;
 $teal: #5AB0AC;
 $cadet-blue: #669999;
+$elite: "Special Elite";
 
 //body and wrappers
 
@@ -37,15 +38,32 @@ body {
 }    
 
 //header 
+
 .site-header {
   border: none;
 }   
+
+.elite {
+  font-family: $elite, Helvetica, Arial, sans-serif;
+}
+
+.teal {
+  color: $teal;
+}
+
+.coffee {
+  color: $coffee;
+}
+
+.tangerine {
+  color: $tangerine;
+}
 
 // home.html post list 
 
 .site-title {
   color: $tangerine;
-  font: 60px "Special Elite", Helvetica, Arial, sans-serif;
+  font: 60px $elite, Helvetica, Arial, sans-serif;
   margin-top: 50px;
   margin-bottom: 50px;
 }
@@ -61,32 +79,29 @@ body {
 
 .post-list-header {
   color: $coffee;
-  font-family: "Special Elite", Helvetica, Arial, sans-serif;
-  font-size: 40px; }
+  font-family: $elite, Helvetica, Arial, sans-serif;
+  font-size: 40px; 
+}
 
 .post-link {
   color: $teal;
-  font-family: "Special Elite", Helvetica, Arial, sans-serif;
+  font-family: $elite, Helvetica, Arial, sans-serif;
   font-size: 24px;
 }
 
 .post-meta {
   color: $coffee;
-  font-family: "Special Elite", Helvetica, Arial, sans-serif;
+  font-family: $elite, Helvetica, Arial, sans-serif;
   font-size: 16px;
-}
-
-h3, h4 {
-  color: $teal;
-  font-family: "Special Elite", Helvetica, Arial, sans-serif;
 }
 
 //page.html 
 
 .post-title {
   color: $teal;
-  font-family: "Special Elite", Helvetica, Arial, sans-serif;
-  font-size: 36px; }
+  font-family: $elite, Helvetica, Arial, sans-serif;
+  font-size: 36px; 
+}
   @media screen and (max-width: 800px) {
     .post-title {
       font-size: 32px; } }
@@ -141,12 +156,24 @@ body {
 
 a {
   color: $cadet-blue;
-  text-decoration: none; }
-  a:visited {
-    color: $cadet-blue; }
-  a:hover {
-    color: #5AB0AC;
-    text-decoration: none;}
+  text-decoration: none; 
+}
+a:visited {
+  color: $cadet-blue; }
+a:hover {
+  color: #5AB0AC;
+  text-decoration: none;}
+    
+.site-footer a {
+  color: $beige-background;
+  text-decoration: none
+}
+
+.site-footer a:visited {
+  color: $beige-background;
+  text-decoration: none
+}
+
     
 .img-center {
   display: block;
