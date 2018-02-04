@@ -14,7 +14,7 @@ Listed [here](https://ashlynnpai.github.io/journal/science-courses)
 
 # Web Development
 
-Listed [here](https://ashlynnpai.github.io/journal/web-dev-courses)
+Listed [here](https://ashlynnpai.github.io/journal/web-dev)
 
 
 # Computer Science
