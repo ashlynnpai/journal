@@ -38,8 +38,8 @@ The domain input sets the state names and years as the values for the x and y ax
 
 ~~~ javascript
 const states = d3.set(data.map((d) => {return d.state})).values();
-    x.domain(states);
-    y.domain(d3.extent(data, d => d.year));
+x.domain(states);
+y.domain(d3.extent(data, d => d.year));
 ~~~
 
 ### Setting the Colors for the Heatmap
@@ -52,7 +52,7 @@ var color = d3.scaleQuantize()
     .range(["#bdb7d6", "#948DB3", "#605885", "#433B67"]);
 ~~~
 
-Now we can draw a series of 20 x 20 pixel squares on the chart.
+Now we can draw a series of 20 x 20 pixel squares on the chart to represent the tuition values for all the states.
 
 ~~~ javascript
 const cellSize = 20;
@@ -75,16 +75,16 @@ svg.selectAll("rect")
 Finally, I want to make a legend that shows the tuition cut off points for the different colors. The quantile function takes a <b>sorted</b> array and computes the specified points in the data. This gives me the values that separate the four quartiles and I write them to the DOM.
 
 ~~~ javascript
-    var tuition = d3.set(data.map((d) => {return d.tuition})).values();
-    tuition.sort(function(a,b){return a - b})
-    var q1 = d3.quantile(tuition, .25);
-    var q2 = d3.quantile(tuition, .5);
-    var q3 = d3.quantile(tuition, .75);
-    var q4 = d3.quantile(tuition, 1);
-    d3.select("#q1").node().innerHTML = "$0 - $" + q1;
-    d3.select("#q2").node().innerHTML = "$" + q1 + " - $" + q2 ;
-    d3.select("#q3").node().innerHTML = "$" + q2 + " - $" + q3 ;
-    d3.select("#q4").node().innerHTML = "$" + q3 + " - $" + q4 ;
+var tuition = d3.set(data.map((d) => {return d.tuition})).values();
+tuition.sort(function(a,b){return a - b})
+var q1 = d3.quantile(tuition, .25);
+var q2 = d3.quantile(tuition, .5);
+var q3 = d3.quantile(tuition, .75);
+var q4 = d3.quantile(tuition, 1);
+d3.select("#q1").node().innerHTML = "$0 - $" + q1;
+d3.select("#q2").node().innerHTML = "$" + q1 + " - $" + q2 ;
+d3.select("#q3").node().innerHTML = "$" + q2 + " - $" + q3 ;
+d3.select("#q4").node().innerHTML = "$" + q3 + " - $" + q4 ;
 ~~~
 
 The code at Github covers drawing the chart and the axes and creating tooltips that display the names of the universities and the tuition prices.
