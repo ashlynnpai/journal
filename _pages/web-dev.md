@@ -7,6 +7,7 @@ permalink: "/web-dev/"
 ### Web Development
 {:.coffee .elite}
 
+* Data Visualization, FreeCodeCamp, February 2018*
 * Front End Development, Free Code Camp, October 2017*
 * Build Robust and Production Quality Applications, Tealeaf Academy, 2015
 * Rapid Prototyping with Ruby on Rails, Tealeaf Academy, 2014
