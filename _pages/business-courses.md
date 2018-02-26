@@ -13,6 +13,7 @@ permalink: "/business-courses/"
 ### SEO
 {:.coffee .elite}
 
+* Search Engine Optimization Fundamentals, Coursera (UC Davis) :heavy_check_mark:
 * Introduction to Search Engine Optimization, Coursera (UC Davis) :heavy_check_mark:
 * SEO Foundations, Lynda, 4/2015, Certificate No: A6A5368E33B1467189ECBF1DDBBD2079
 
