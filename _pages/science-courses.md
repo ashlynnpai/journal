@@ -14,7 +14,8 @@ permalink: "/science-courses/"
 {:.coffee .elite}
 
 * Principles of Biochemistry, MCB63X, edx (Harvard University), October 2017
-* Introduction to Chemistry: Reactions and Ratios, Coursera (Duke University), November 2017 :heavy_check_mark:
+* Medicinal Chemistry: The Molecular Basis of Drug Discovery, DavidsonX: D001x, edx (Davidson College), August 2018
+* Chemistry, Modern States, August 2018
 * Science & Cooking: From Haute Cuisine to Soft Matter Science, edx (Harvard University), June 2017
 
 ### Neuroscience

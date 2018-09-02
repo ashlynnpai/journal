@@ -25,6 +25,7 @@ permalink: "/other/"
 * Pattern-Oriented Software Architectures: Programming Mobile Services for Android Handheld Systems, Coursera (Vanderbilt University), 2015*
 * Surveillance Law, Coursera (Stanford University), 2014*
 * Learning How to Learn: Powerful mental tools to help you master tough subjects, Coursera (UCSD), 2015
+* Introduction to Chemistry: Reactions and Ratios, Coursera (Duke University), November 2017 :heavy_check_mark:
 * Big Data Science with the BD2K-LINCS Data Coordination and Integration Center, Coursera (Icahn School of Medicine at Mount Sinai), 2015*
 * Sleep: Neurobiology, Medicine, and Society, Coursera (University of Michigan), 2015*
 
