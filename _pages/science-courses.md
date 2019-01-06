@@ -15,7 +15,6 @@ permalink: "/science-courses/"
 
 * Principles of Biochemistry, MCB63X, edx (Harvard University), October 2017
 * Medicinal Chemistry: The Molecular Basis of Drug Discovery, DavidsonX: D001x, edx (Davidson College), August 2018
-* Chemistry, Modern States, August 2018
 * Science & Cooking: From Haute Cuisine to Soft Matter Science, edx (Harvard University), June 2017
 
 ### Neuroscience
@@ -27,6 +26,10 @@ permalink: "/science-courses/"
 * Cellular Mechanisms of Brain Function, edx (École Polytechnique Fédérale de Lausanne -- Swiss Federal Institute of Technology), 2015*
 * Fundamental Neuroscience for Neuroimaging, Coursera (Johns Hopkins), January 2018 :heavy_check_mark:
 
+### Exams
+{:.coffee .elite}
+
+* CLEP Chemistry, January 2019
 
 <br>
 <br>

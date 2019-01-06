@@ -28,6 +28,7 @@ permalink: "/other/"
 * Introduction to Chemistry: Reactions and Ratios, Coursera (Duke University), November 2017 :heavy_check_mark:
 * Big Data Science with the BD2K-LINCS Data Coordination and Integration Center, Coursera (Icahn School of Medicine at Mount Sinai), 2015*
 * Sleep: Neurobiology, Medicine, and Society, Coursera (University of Michigan), 2015*
+* Chemistry, Modern States, August 2018
 
 
 
