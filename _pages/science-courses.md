@@ -30,6 +30,7 @@ permalink: "/science-courses/"
 {:.coffee .elite}
 
 * CLEP Chemistry, January 2019
+* CLEP Biology, May 2019
 
 <br>
 <br>
