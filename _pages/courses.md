@@ -38,8 +38,10 @@ Listed [here](https://ashlynnpai.github.io/journal/web-dev)
 ### Mathematics
 {:.coffee .elite}
 
+* Linear Algebra, (Northern Virginia Community College), May 2019 (3 credits)
+* Discrete Mathematics, (Northern Virginia Community College), May 2019 (3 credits)
 * Mathematics for Machine Learning: Multivariate Calculus, Coursera (Imperial College London), July 2018*
-* Calculus with Analytic Geometry II, Mth 174 (Northern Virginia Community College), July 2018 (5 credits)
+* Calculus with Analytic Geometry II, (Northern Virginia Community College), July 2018 (5 credits)
 * Calculus 1A: Differentiation, MITx: 18.01.1x, edx (MIT), September 2017
 * Calculus: Single Variable, Parts 1, 2, Coursera (University of Pennsylvania), October 2017
 * Linear Algebra, Foundations to Frontiers, edx (UT Austin), May 2017
